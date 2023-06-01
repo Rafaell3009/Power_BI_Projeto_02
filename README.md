@@ -1,1 +1,2 @@
-# Power_BI_Projeto_02
+## Projeto no Power BI em que é possível analisar os dados no gráfico da performace dos colaboradores e de seus setores. 
+## Foi adicionado filtros para que esta análise de performace possa ser feita por colaborador, setor e período desde a contratação.
